@@ -22,4 +22,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gfycat.com/flashyklutzycirriped' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://raw.githubusercontent.com/sundries-hub/LifeReviewFile/master/uPic/Kapture%202021-04-26%20at%2018.59.55.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
